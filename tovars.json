@@ -28,17 +28,17 @@
 		"rating": 4.6
 	},
 	{
-		"name": "Наушники",
+		"name": "Пиво Xiaomi",
 		"price": 52.52,
 		"article": "HP13579",
-		"description": "Беспроводные вакуумные наушники с шумоподавлением и отличным качеством звука.",
+		"description": "Разливное",
 		"rating": 4.4
 	},
 	{
 		"name": "Тупые часы",
 		"price": 36.99,
 		"article": "SW13579",
-		"description": "Вонючие Realme Buds T100.",
+		"description": "Вонючие Realme уже и сюда добрались.",
 		"rating": 2.3
 	},
 	{
