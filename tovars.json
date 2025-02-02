@@ -4,7 +4,7 @@
 		"price": 1180.24,
 		"article": "TV12345",
 		"description": "Современный 8K WQHD телевизор с экраном 55 дюймов.",
-		"rating": 4.7
+		"rating": 4.7,
 		"image": "not found.jpg"
 	},
 	{
@@ -12,7 +12,7 @@
 		"price": 500.0,
 		"article": "SP54321",
 		"description": "смартфон виво.",
-		"rating": 4.5
+		"rating": 4.5,
 		"image": "not found.jpg"
 	},
 	{
@@ -20,7 +20,7 @@
 		"price": 2500.0,
 		"article": "LP98765",
 		"description": "Ноутбук для работы и игр с мощным процессором unisoc tiger 1488.",
-		"rating": 4.8
+		"rating": 4.8,
 		"image": "not found.jpg"
 	},
 	{
@@ -28,7 +28,7 @@
 		"price": 249.99,
 		"article": "TB24680",
 		"description": "Планшет с высоким разрешением экрана и хорошей автономностью.",
-		"rating": 4.6
+		"rating": 4.6,
 		"image": "not found.jpg"
 	},
 	{
@@ -36,7 +36,7 @@
 		"price": 52.52,
 		"article": "HP13579",
 		"description": "Разливное",
-		"rating": 4.4
+		"rating": 4.4,
 		"image": "xiaomi.jpg"
 	},
 	{
@@ -44,7 +44,7 @@
 		"price": 36.99,
 		"article": "SW13579",
 		"description": "Вонючие Realme уже и сюда добрались.",
-		"rating": 2.3
+		"rating": 2.3,
 		"image": "not found.jpg"
 	},
 	{
@@ -52,7 +52,7 @@
 		"price": 1500.0,
 		"article": "SPB22222",
 		"description": "Сифон 16.",
-		"rating": 4.6
+		"rating": 4.6,
 		"image": "not found.jpg"
 	},
 	{
@@ -60,7 +60,7 @@
 		"price": 399.99,
 		"article": "SPC33333",
 		"description": "Смартфон с тройной камерой и быстрой зарядкой.",
-		"rating": 4.8
+		"rating": 4.8,
 		"image": "not found.jpg"
 	},
 	{
@@ -68,7 +68,7 @@
 		"price": 800.0,
 		"article": "SM-G780F/DSM",
 		"description": "Смартфон с хорошим соотношением цены и качества. Galaxy S20 FE",
-		"rating": 4.5
+		"rating": 4.5,
 		"image": "not found.jpg"
 	},
 	{
@@ -76,7 +76,7 @@
 		"price": 4000.0,
 		"article": "SPE55555",
 		"description": "Смартфон с безрамочным экраном и быстрым процессором.",
-		"rating": 4.6
+		"rating": 4.6,
 		"image": "not found.jpg"
 	},
 	{
@@ -84,7 +84,7 @@
 		"price": 199.99,
 		"article": "SPF66666",
 		"description": "Смартфон начального уровня с хорошими характеристиками.",
-		"rating": 4.4
+		"rating": 4.4,
 		"image": "not found.jpg"
 	},
 	{
@@ -92,7 +92,7 @@
 		"price": 640.99,
 		"article": "SPG77777",
 		"description": "Смартфон с большим экраном и высокой производительностью. GT 7 PRO",
-		"rating": 4.7
+		"rating": 4.7,
 		"image": "not found.jpg"
 	},
 	{
@@ -100,7 +100,7 @@
 		"price": 279.99,
 		"article": "SPH88888",
 		"description": "Смартфон с камерой и длительным временем работы от батареи.",
-		"rating": 4.6
+		"rating": 4.6,
 		"image": "not found.jpg"
 	},
 	{
@@ -108,7 +108,7 @@
 		"price": 329.99,
 		"article": "SPI99999",
 		"description": "Смартфон с разбитым экраном и поддержкой NFC.",
-		"rating": 4.5
+		"rating": 4.5,
 		"image": "not found.jpg"
 	}
 ]
